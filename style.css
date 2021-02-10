@@ -35,6 +35,7 @@ p {
 }
 .download-button {
     margin: 5% 3% 5% 0;
+    color: rgb(252, 233, 150);
 }
 .colored-section {
     background-color: black;
@@ -101,6 +102,9 @@ p {
   .social-icon {
     margin: 20px 10px;
   }
+.navbar-brand{
+    font-size: 2rem;
+}
   
   /* @media <type> <feature> */
   
